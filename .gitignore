@@ -1,7 +1,0 @@
-.idea
-.env
-__pycache__
-__cache__/
-media
-hw.db
-lesson_8.py
